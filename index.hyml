@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <div>
+        <h1>Chase Agard</h1>
+        <p>12005 W 67th Terrace</p>
+        <p>Shawnee, KS 66216</p>
+        <p><strong>norsemen321@gmail.com</strong></p>
+    </div>
+<div class="exp-header">
+    <h3>Skills</h3>
+</div>
+<div>
+<p>Worked with a little HTML and CSS. Quick problem solver. If someone needs to step up and be a leader I can fit that role well. Good at individual work and being part of a team. Quick learner. Very eager to learn programming.</p>
+</div>
+<div>
+    <h3>Experience</h3>
+    <h4>Planet Fitness, 13320 W 62nd Terrace, Shawnee, KS 66216-<em>Team Member</em></h4>
+    <h6>June 2020- Jan 2021</h6>
+    <ul>
+        <li>Help with accounts.</li>
+        <li>Manage people's accounts.</li>
+        <li>Provide a healthy safe workout atmosphere.</li>
+    </ul>
+</div>
+<div>
+    <h4>Zarda BBQ, 11931 W 87th St Pkwy, Lenexa, KS 66215-<em>Server</em></h4>
+    <h6>June 2019-Aug 2019</h6>
+    <ul>
+        <li>Manage the cash register.</li>
+        <li>Take someones order and ensure they have a good dining experience.</li>
+    </ul>
+</div>
+<div class="exp-header">
+    <h3>Education</h3>
+      <h4>Shawnee Mission Northwest, 12701 W 67th St, Shawnee, KS 66216-<em>Diploma</em></h4>
+</div>
+</body>
+</html>
